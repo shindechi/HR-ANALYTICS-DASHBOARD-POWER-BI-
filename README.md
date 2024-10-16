@@ -1,3 +1,5 @@
+Insights:
+___________________________________________________________________________________________________________________________________________________________________________________________
 -𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰: Analyzed HR data of 1,413 employees, focusing on attrition, salary, age, and job roles.
 
 -𝐊𝐞𝐲 𝐌𝐞𝐭𝐫𝐢𝐜𝐬: Assessed attrition rates based on gender, age, salary, education, and years at the company.
