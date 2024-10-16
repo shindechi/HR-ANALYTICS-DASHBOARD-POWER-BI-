@@ -15,3 +15,13 @@
 -𝐀𝐜𝐭𝐢𝐨𝐧𝐚𝐛𝐥𝐞 𝐢𝐧𝐬𝐢𝐠𝐡𝐭𝐬:Recommended focusing on retention strategies for high-attrition job roles and salary bands below 5K.
 
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤:Power BI
+___________________________________________________________________________________________________________________________________________________________________________________________
+
+𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐅𝐚𝐜𝐞𝐝:
+___________________________________________________________________________________________________________________________________________________________________________________________
+1. 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠: Some data was incomplete or missing, requiring significant time and effort.
+
+2. 𝐂𝐥𝐞𝐚𝐫 𝐕𝐢𝐬𝐮𝐚𝐥𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬: Many factors affected attrition, making clarity a challenge.
+
+3. 𝐂𝐮𝐬𝐭𝐨𝐦 𝐂𝐚𝐥𝐜𝐮𝐥𝐚𝐭𝐢𝐨𝐧𝐬: Custom formulas for metrics required a deeper understanding of DAX in Power BI.
+
